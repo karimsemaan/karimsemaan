@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karimsemaan/karimsemaan/main/banner.png" alt="Karim Semaan — Founder & CEO, SSS Tech · AI/ML Engineer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1E45?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1E45?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1E45?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-0D1E45?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-0D1E45?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS-0D1E45?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Claude-0D1E45?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Pinecone-0D1E45?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+</p>
+
 ## Hey, I'm Karim 👋
 
 I build machine learning models and the products that ship them. I'm the founder of SSS Tech, an applied-AI studio in Boston, where I take models from a first notebook all the way to a deployed product: the data and architecture, the agent pipelines, the evals and guardrails, the infra, and the interface on top.
